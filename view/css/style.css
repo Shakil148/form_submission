@@ -1,0 +1,19 @@
+
+.title {   
+    text-align: center;
+}
+#validity-message{
+    color: crimson;
+}
+label {
+    padding-top: 5px;
+}
+.ml-9{
+    margin-left: 9%;
+}
+.footer{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
